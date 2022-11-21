@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "Goldydocs"
+title = "TikTag | Smart tagging and tracking for digital assets"
 
 # Language settings
 contentDir = "content/en"
@@ -59,27 +59,22 @@ id = "UA-00000000-0"
 # Language configuration
 
 [languages]
+
 [languages.en]
-title = "Goldydocs"
-description = "A Docsy example site"
+title = "TikTag"
+description = "Smart tagging and tracking for digital assets"
 languageName ="English"
 # Weight used for sorting.
 weight = 1
-[languages.no]
-title = "Goldydocs"
-description = "Docsy er operativsystem for skyen"
-languageName ="Norsk"
-contentDir = "content/no"
-time_format_default = "02.01.2006"
-time_format_blog = "02.01.2006"
 
-[languages.fa]
-title = "اسناد گلدی"
-description = "یک نمونه برای پوسته داکسی"
-languageName ="فارسی"
-contentDir = "content/fa"
-time_format_default = "2006.01.02"
-time_format_blog = "2006.01.02"
+#[languages.no]
+#title = "TechOS"
+#description = "Dette er landingssiden til en seksjon på øverste nivå."
+#languageName ="Norwegian"
+#weight = 2
+#contentDir = "content/no"
+#time_format_default = "2006.01.02"
+#time_format_blog = "2006.01.02"
 
 [markup]
   [markup.goldmark]
