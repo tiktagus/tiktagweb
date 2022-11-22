@@ -23,10 +23,12 @@ jobs:
         uses: actions/setup-node@v2
         with:
           node-version: '16'
+
+      - name: Update NPM to @9.1.2
+        run: npm install -g npm@9.1.2
         
       - name: Install dependencies
         run: |
-          npm install -g npm@9.1.2
           npm install -g postcss-cli
           npm install -g autoprefixer
 
