@@ -2,7 +2,7 @@
 date: 2022-11-22
 title: "Why we need to audit digital asset"
 linkTitle: "Annoucing TikTag"
-description: "TikTag is a tool to make digital asset handling, such as photo, _auditable_."
+description: "TikTag is a tool to make the handling of digital asset, such as photo, _auditable_."
 author: Chance Jiang ([@chancejiang](https://twitter.com/chancejiang))
 resources:
 - src: "**.{png,jpg}"
