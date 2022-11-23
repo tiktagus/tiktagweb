@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "TikTag | Auditable Digital Assets Sharing"
+title = "TikTag | Enabling Digital Asset Audit"
 
 # Language settings
 contentDir = "content/en"
@@ -62,7 +62,7 @@ id = "G-K47493H77N"
 
 [languages.en]
 title = "TikTag"
-description = "Smart tagging and tracking for digital assets"
+description = "Enabling Digital Asset Audit"
 languageName ="English"
 # Weight used for sorting.
 weight = 1
