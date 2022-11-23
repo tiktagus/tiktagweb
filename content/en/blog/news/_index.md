@@ -1,8 +1,5 @@
-
 ---
-title: "News About Docsy"
+title: "TikTag News"
 linkTitle: "News"
-weight: 20
+weight: 10
 ---
-
-
