@@ -1,7 +1,7 @@
 ---
 title: "Version 0.x Design"
 linkTitle: "Version 0.x Design"
-date: 2022-11-23
+date: 2022-11-22
 description: >
   `TikTag` v0.x focuse on use case validation, performance, and user feedback.
 ---
