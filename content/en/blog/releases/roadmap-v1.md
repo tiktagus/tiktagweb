@@ -22,9 +22,11 @@ Or, we may implement a web GUI feature to verify that you, the wallet owner, is 
 
 ## How Does It works
 
-When you're using `tiktag` locally on a daily basis, you're leaving an audit trail with [tiktag.us](https://tiktag.us), i.e., the file's unique ID, digital fingerprint, timestamp of your operation, etc. We'll implement a Zero Knowledge algorithm to verify that you are owning the assets, and leaving a proof for others to check and verify when necessary.
+When you're using `tiktag` locally on a daily basis, you're leaving an audit trail with [tiktag.us](https://tiktag.us), including the file's fingerprint, time of operation, etc. For example, when you first hosted a file, we got its `ttid` as part of the URL, and the timestamp.
 
-This is an on-going basis as you keep using `tiktag` with a bineded wallet you are controlling. This way, we're capable of proving to the world that you own what you've claimed to own.
+Once you login [tiktag.us](https://tiktag.us) with your wallet, you'll need to go through a simple proof-of-ownership test. We'll implement Zero Knowledge algorithm to verify your claim on the asset's ownership, leaving a proof for others to check and verify.
+
+This is happening on an on-going basis as you keep using `tiktag` with a wallet you are controlling. Overtime, `tiktag` makes it easier for you to prove your relationship with the asset in question.
 
 ## What's Next?
 
