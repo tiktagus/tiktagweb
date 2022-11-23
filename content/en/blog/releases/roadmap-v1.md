@@ -26,7 +26,7 @@ When you're using `tiktag` locally on a daily basis, you're leaving an audit tra
 
 Once you login [tiktag.us](https://tiktag.us) with your wallet, you'll need to go through a simple proof-of-ownership test. We'll implement Zero Knowledge algorithm to verify your claim on the asset's ownership, leaving a proof for others to check and verify.
 
-This is happening on an on-going basis as you keep using `tiktag` with a wallet you are controlling. Overtime, `tiktag` makes it easier for you to prove your relationship with the asset in question.
+This is happening on an on-going basis as you keep using `tiktag` with a wallet you are controlling. Over time, `tiktag` makes it easier for you to prove your relationship with the asset in question.
 
 ## What's Next?
 
