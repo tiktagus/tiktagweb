@@ -1,8 +1,8 @@
-
 ---
 title: "Core Tasks"
 linkTitle: "Core Tasks"
 weight: 6
+toc_hide: true
 date: 2017-01-05
 description: >
   What can your user do with your project?

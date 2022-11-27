@@ -1,8 +1,8 @@
-
 ---
 title: "Examples"
 linkTitle: "Examples"
 weight: 3
+toc_hide: true
 date: 2017-01-05
 description: >
   See your project in action!

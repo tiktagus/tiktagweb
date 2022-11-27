@@ -1,5 +1,5 @@
 ---
-title: "Multi-Bear Domicile Setup"
+title: "Multi-Bear"
 date: 2017-01-05
 weight: 4
 description: >
