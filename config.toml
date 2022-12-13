@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "TikTag | Enabling Digital Asset Audit"
+title = "TikTag | bottom-up digital asset auditing"
 
 # Language settings
 contentDir = "content/en"
@@ -62,7 +62,7 @@ id = "G-K47493H77N"
 
 [languages.en]
 title = "TikTag"
-description = "Enabling Digital Asset Audit"
+description = "bottom-up digital asset auditing"
 languageName ="English"
 # Weight used for sorting.
 weight = 1
@@ -91,6 +91,7 @@ weight = 1
 # Comment out if you don't want the "print entire section" link enabled.
 [outputs]
 section = ["HTML", "print", "RSS"]
+#section = ["HTML", "RSS"]
 
 [params]
 copyright = "TikolyDAO"
@@ -163,8 +164,8 @@ sidebar_search_disable = false
 [params.ui.feedback]
 enable = true
 # The responses that the user sees after clicking "yes" (the page was helpful) or "no" (the page was not helpful).
-yes = 'Glad to hear it! Please <a href="https://github.com/USERNAME/REPOSITORY/issues/new">tell us how we can improve</a>.'
-no = 'Sorry to hear that. Please <a href="https://github.com/USERNAME/REPOSITORY/issues/new">tell us how we can improve</a>.'
+yes = 'Glad to hear it! Please <a href="https://github.com/tikoly-com/tiktag/issues/new">tell us how we can improve</a>.'
+no = 'Sorry to hear that. Please <a href="https://github.com/tikoly-com/tiktag/issues/new">tell us how we can improve</a>.'
 
 # Adds a reading time to the top of each doc.
 # If you want this feature, but occasionally need to remove the Reading time from a single page, 
@@ -185,10 +186,10 @@ enable = false
 #  icon = "fab fa-twitter"
 #  desc = "Follow us on Twitter to get the latest news!"
 [[params.links.user]]
-  name = "Slack"
-  url = "https://join.slack.com/t/tiktag/shared_invite/zt-1kdvg6uwx-xruL~AMhYGgd0QezP66~PA"
-  icon = "fab fa-slack"
-  desc = "Chat with project developers"
+  name = "Talk to us at Keybase"
+  url = "https://keybase.io/team/tiktagus"
+  icon = "fa-brands fa-keybase"
+  desc = "Talk to us on Keybase"
 #[[params.links.user]]
 #  name = "Stack Overflow"
 #  url = "https://example.org/stack"

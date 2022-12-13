@@ -1,7 +1,8 @@
 ---
-title: "Another Tutorial"
-date: 2017-01-05
-weight: 5
+title: "For Sharing URI"
+date: 2022-12-13
+weight: 3
+draft: true
 description: >
   A short lead description about this content page. It can be **bold** or _italic_ and can be split over multiple paragraphs.
 ---

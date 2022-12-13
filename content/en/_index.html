@@ -3,7 +3,7 @@ title = "TikTag"
 linkTitle = "TikTag"
 +++
 
-{{< blocks/cover title="Enabling Digital Asset Audit" image_anchor="top" height="full" color="dark" >}}
+{{< blocks/cover title="Bottom-up digital asset hosting and auditing" image_anchor="top" height="full" color="dark" >}}
 <div class="mx-auto col-md-10">
 	<a class="btn btn-lg btn-primary mr-3 mb-4" href="{{< relref "#" >}}">
 		How to TikTag (coming soon...) <i class="fas fa-arrow-alt-circle-right ml-2"></i>
@@ -17,13 +17,21 @@ linkTitle = "TikTag"
     {{< card-code lang="Shell" >}}
 Host an asset,
 > tiktag myfilename.png
-> Tik...success! Tag...your asset is hosted at,
+> Tik ...Tag ... your asset is successfully hosted at,
 > https://s3.tikoly.com/village/563583552944996352.png
-
-Retrieve an asset's URL,
-> tiktag -s myfilename.png
+    {{< /card-code>}} 
+    {{< card-code lang="Shell" >}}
+Retrieve an asset's URI
+> tiktag search myfilename.png
 > We found this asset at,
 > https://s3.tikoly.com/village/563583552944996352.png
+    {{< /card-code>}} 
+    {{< card-code lang="Shell" >}}   
+Verify an asset's ownership,
+> tiktag whose myfilename.png
+> We found,
+> Sui Wallet https://etherscan.io/address/0x6ce19a00f0424b27bc2fce5ec3f10ba022a42370
+> Please visit https://tiktag.us/ for more options.
     {{< /card-code>}} 
     </p>
 

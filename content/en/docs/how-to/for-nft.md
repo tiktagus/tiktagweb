@@ -1,8 +1,8 @@
 ---
-title: "Launching Ponycopters"
-linkTitle: "Launching Ponycopters"
-date: 2017-01-05
-weight: 3
+title: "For Minting NFT"
+date: 2022-12-13
+weight: 4
+draft: true
 description: >
   A short lead description about this content page. It can be **bold** or _italic_ and can be split over multiple paragraphs.
 ---
