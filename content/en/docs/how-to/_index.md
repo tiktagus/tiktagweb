@@ -2,6 +2,7 @@
 title: "How-to"
 linkTitle: "How-to"
 weight: 8
+draft: true
 date: 2022-12-13
 description: >
   How to perform different tasks with TikTag
