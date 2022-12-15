@@ -1,7 +1,5 @@
 # From https://github.com/peaceiris/actions-hugo
-
 name: GitHub Pages
-
 on:
   push:
     branches:
