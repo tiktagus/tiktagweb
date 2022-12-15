@@ -22,9 +22,9 @@ By design, TikTag **DOES NOT** host your photos or assets. You need to pick your
 
 TikTag is NOT
 
-* a NFT-minting tool, but we'll integrate TikTag with many L2 platforms such as [Ethereum](https://ethereum.org/) and [Sui Networks](https://sui.io/), or partner apps such as [Gacha](https://gacha.cards/),
+* a NFT-minting tool, but we'll integrate TikTag with L2 blockchain such as [Ethereum](https://ethereum.org/) and [Sui Networks](https://sui.io/), or partner apps such as [Gacha](https://gacha.cards/),
 * an image editing tool, there are already many such good tools/apps,
-* a storage service, by design
+* nor a storage service, by design.
 
 ## Why do I want TikTag?
 
