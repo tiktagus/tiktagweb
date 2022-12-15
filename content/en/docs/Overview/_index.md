@@ -3,7 +3,7 @@ title: "Overview"
 linkTitle: "Overview"
 weight: 1
 description: >
-  “Bottom-up digital asset hosting and auditing”
+  “Bottom-up digital asset auditing”
 ---
 
 ## What is TikTag
