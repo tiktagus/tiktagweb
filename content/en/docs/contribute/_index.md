@@ -1,7 +1,7 @@
 ---
 title: "Contribute How-to"
 linkTitle: "Contribute"
-weight: 10
+weight: 4
 description: >
   How to contribute to TikTag
 ---

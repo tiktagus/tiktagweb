@@ -1,7 +1,7 @@
 ---
 title: "How-to"
 linkTitle: "How-to"
-weight: 8
+weight: 3
 draft: true
 date: 2022-12-13
 description: >
