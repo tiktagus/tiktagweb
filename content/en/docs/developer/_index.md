@@ -4,7 +4,7 @@ linkTitle: "Developer"
 categories: ["developer"]
 tags: ["developer", "docs"]
 weight: 5
-draft: true
+draft: false
 date: 2022-12-21
 description: >
   For design specs, APIs and requirements on https://tiktag.us service
