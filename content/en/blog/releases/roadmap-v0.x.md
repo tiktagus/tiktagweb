@@ -20,7 +20,7 @@ Hosted version will support configurable QR, so that it points to your landing p
 
 3. Configure tiktag in ~/.tiktag/config.yml, so that you can decide,
     - which S3 compatible object storage service to host the photo, and
-    - which landing URL to generate QR for `titkag poster` feature.
+    - which landing URL to generate QR for with `titkag poster` feature.
 
 > Hosted version will support configurable QR, so that it points to your landing page or online object of your own interest.
 
