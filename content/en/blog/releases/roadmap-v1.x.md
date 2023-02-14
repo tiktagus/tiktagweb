@@ -2,11 +2,12 @@
 title: "Version 1.x Design"
 linkTitle: "Version 1.x Design"
 date: 2022-11-23
+weight: 20
 description: >
-  TikTag v1.x focuses on asset ownership with wallet login.
+  TikTag v1.x focuses on asset ownership and copyright verification.
 ---
 
-> You guessed right. We're not tackling any _ownership_ features in v0.x, with good reasons.
+> You guessed right. We're not building any _ownership_ related features yet in v0.x, with good reasons.
 
 ## Ownership is Verified on Wallet Login
 
@@ -27,6 +28,12 @@ When you're using `tiktag` locally on a daily basis, you're leaving an audit tra
 Once you login [tiktag.us](https://tiktag.us) with your wallet, you'll need to go through a simple proof-of-ownership test. We'll implement Zero Knowledge algorithm to verify your claim on the asset's ownership, leaving a proof for others to check and verify.
 
 This is happening on an on-going basis as you keep using `tiktag` with a wallet you are controlling. Over time, `tiktag` makes it easier for you to prove your relationship with the asset in question.
+
+## Other planned features
+
+* Build middleware/infrastructure to support smooth user login UX, from web2 (social login) to web3 (wallet login) when necessary, such as enable Sui Wallet login + WeChat login (for KYC inm China)
+* Integrating with the [Sui Network](https://sui.io/) via data oracle such as [Switchboard.xyz](https://switchboard.xyz)
+* Trying and validating the `imageNFT` feature of Sui (when it's released), for referencing minted NFT to an image/assest privately stored by a user
 
 ## What's Next?
 
