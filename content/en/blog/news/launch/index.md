@@ -46,21 +46,14 @@ This image editing workflow feels _neat_, doesn't it? We think so, too.
 
 ## Then, we had more ideas for `tiktag`
 
-I was tasked to come up with an open source tool for photo editors who're looking forward to easy tooling for minting NFT.
+I was tasked to come up with an open source tool for photo editors who're seeking easy tool for hosting images/assets, and then do more with those hosted assets, such as minting NFT.
 
-{{< imgproc ship Fill "640x640" >}}
-Fetch and scale an image in the upcoming Hugo 0.43.
-{{< /imgproc >}}
+As we are building `tiktag` CLI app, we're iterating it along this roadmap,
 
-The front matter of this post specifies properties to be assigned to all image resources:
+1. [TikTag v0.x series](/blog/20221122/version-0.x-design/)
+1. [TikTag v1.x series](/blog/20221123/version-1.x-design/)
+1. [TikTag v2.x series](/blog/10101/version-2.x-design/)
 
-```
-resources:
-- src: "**.{png,jpg}"
-  title: "Image #:counter"
-  params:
-    byline: "Photo: Chance Jiang / CC-BY-CA"
-```
 
 ## Here we are, _soft launching_ TikTag
 
