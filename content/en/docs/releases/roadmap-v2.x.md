@@ -2,7 +2,7 @@
 title: "Version 2.x Design"
 linkTitle: "Version 2.x Design"
 date: 2023-2-8
-weight: 30
+weight: 33
 description: >
   TikTag v2.x focuses on marketplaces and commerce features.
 ---
@@ -16,4 +16,4 @@ description: >
 
 ## What's Next?
 
-> If you like the idea of `tiktag` and wish to use it, [let us know what you think](https://github.com/tikoly-com/tiktag/issues), or [talk to our developers](https://join.slack.com/t/tiktag/shared_invite/zt-1kdvg6uwx-xruL~AMhYGgd0QezP66~PA).
+> If you like the idea of `tiktag` and wish to use it, [let us know what you think](https://github.com/tiktagus/tiktag/issues), or [talk to our developers](https://join.slack.com/t/tiktag/shared_invite/zt-1kdvg6uwx-xruL~AMhYGgd0QezP66~PA).

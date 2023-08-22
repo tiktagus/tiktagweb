@@ -12,11 +12,11 @@ Since we haven't released any versions, all you can do currently is to [join the
 
 ## Let us know your feature request, or simply comment
 
-If you feel intrigued with the idea of TikTag, you can let us know your thoughts on [TikTag issues on Github](https://github.com/tikoly-com/tiktag/issues). Or [talk to us on Keybase](https://keybase.io/team/tiktagus).
+If you feel intrigued with the idea of TikTag, you can let us know your thoughts on [TikTag issues on Github](https://github.com/tiktagus/tiktag/issues). Or [talk to us on Keybase](https://keybase.io/team/tiktagus).
 
 ## Review user documentation
 
-If you've just spotted something you'd like to change or improve while using the user docs, please [submit an issue on Github](https://github.com/tikoly-com/tiktag/issues/new) quoting the page's URL.
+If you've just spotted something you'd like to change or improve while using the user docs, please [submit an issue on Github](https://github.com/tiktagus/tiktag/issues/new) quoting the page's URL.
 
 ## Useful resources
 

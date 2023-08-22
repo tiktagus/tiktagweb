@@ -65,5 +65,5 @@ Stay tuned and let's explore more possibilities with **TikTag** together!
 
 * Learn more about our product design for [TikTag v0.x](/blog/20221123/version-0.x-design/) and [TikTag v1.x](/blog/20221123/version-1.x-design/).
 
-* If you like the idea of `tiktag` and wish to use it, [let us know what you think](https://github.com/tikoly-com/tiktag/issues), or [talk to our developers](https://join.slack.com/t/tiktag/shared_invite/zt-1kdvg6uwx-xruL~AMhYGgd0QezP66~PA).
+* If you like the idea of `tiktag` and wish to use it, [let us know what you think](https://github.com/tiktagus/tiktag/issues), or [talk to our developers](https://join.slack.com/t/tiktag/shared_invite/zt-1kdvg6uwx-xruL~AMhYGgd0QezP66~PA).
 

@@ -2,7 +2,7 @@
 title: "Version 1.x Design"
 linkTitle: "Version 1.x Design"
 date: 2022-11-23
-weight: 20
+weight: 32
 description: >
   TikTag v1.x focuses on asset ownership and copyright verification.
 ---
@@ -37,4 +37,4 @@ This is happening on an on-going basis as you keep using `tiktag` with a wallet 
 
 ## What's Next?
 
-> If you like the idea of `tiktag` and wish to use it, [let us know what you think](https://github.com/tikoly-com/tiktag/issues), or [talk to our developers](https://join.slack.com/t/tiktag/shared_invite/zt-1kdvg6uwx-xruL~AMhYGgd0QezP66~PA).
+> If you like the idea of `tiktag` and wish to use it, [let us know what you think](https://github.com/tiktagus/tiktag/issues), or [talk to our developers](https://join.slack.com/t/tiktag/shared_invite/zt-1kdvg6uwx-xruL~AMhYGgd0QezP66~PA).

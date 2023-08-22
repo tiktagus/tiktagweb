@@ -25,7 +25,7 @@ Go to your working directory of photos/assets,
 
 then install `tiktag` by running the following command,
 ```Shell
-> go install github.com/tikoly-com/tiktag@latest
+> go install github.com/tiktagus/tiktag@latest
 ```
 
 ### Configure `tiktag`

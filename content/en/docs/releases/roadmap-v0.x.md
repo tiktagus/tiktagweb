@@ -2,7 +2,7 @@
 title: "Version 0.x Design"
 linkTitle: "Version 0.x Design"
 date: 2022-11-22
-weight: 10
+weight: 31
 description: >
   TikTag v0.x focuses on use-cases validation and early users.
 ---
@@ -31,4 +31,4 @@ Hosted version will support configurable QR, so that it points to your landing p
 
 ## What's Next?
 
-> If you like the idea of `tiktag` and wish to use it, [let us know what you think](https://github.com/tikoly-com/tiktag/issues), or [talk to our developers](https://join.slack.com/t/tiktag/shared_invite/zt-1kdvg6uwx-xruL~AMhYGgd0QezP66~PA).
+> If you like the idea of `tiktag` and wish to use it, [let us know what you think](https://github.com/tiktagus/tiktag/issues), or [talk to our developers](https://join.slack.com/t/tiktag/shared_invite/zt-1kdvg6uwx-xruL~AMhYGgd0QezP66~PA).
