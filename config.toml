@@ -60,7 +60,7 @@ id = "G-K47493H77N"
 
 [languages]
 
-[languages.en]
+[languages.en.params]
 title = "TikTag"
 description = "bottom-up digital asset auditing"
 languageName ="English"
