@@ -49,6 +49,10 @@ jobs:
           && sudo dpkg -i ${{ runner.temp }}/hugo.deb
       - name: Install Dart Sass
         run: sudo snap install dart-sass
+      - name: Install PostCSS CLI and dependencies
+        run: npm install postcss-cli autoprefixer
+      - name: Install Node.js dependencies
+        run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4
